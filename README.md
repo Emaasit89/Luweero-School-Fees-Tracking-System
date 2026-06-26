@@ -99,6 +99,4 @@ data/database.json            Generated local data file
    - `PORT` can be left to Render.
 6. For production persistence, replace the JSON repository with PostgreSQL or SQLite storage and keep the controller/view contracts unchanged.
 
-## GitHub repository
 
-This folder is repository-ready. In this environment, `git` was only available through the bundled runtime and no GitHub authentication/remote URL was provided, so the public/shared GitHub URL must be created by pushing this folder to GitHub.
