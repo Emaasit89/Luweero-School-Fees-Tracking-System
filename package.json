@@ -1,0 +1,22 @@
+{
+  "name": "luweero-school-fees",
+  "version": "1.0.0",
+  "description": "MVC fee tracker for rural schools using simulated Mobile Money and digital receipts.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "seed": "node src/server.js --seed-only",
+    "test": "node src/server.js --self-test"
+  },
+  "keywords": [
+    "mvc",
+    "school-fees",
+    "mobile-money",
+    "receipts",
+    "uganda"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
