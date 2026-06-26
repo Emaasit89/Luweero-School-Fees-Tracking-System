@@ -2,6 +2,14 @@
 
 Fee tracker for rural schools using simulated Mobile Money and digital receipts.
 
+## GitHub repository
+
+Public/shared repository URL:
+
+```text
+https://github.com/Emaasit89/Luweero-School-Fees-Tracking-System.git
+```
+
 ## Selected tooling stack
 
 - Frontend UI: HTML5, CSS3, Vanilla JavaScript.
